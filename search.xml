@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2023/05/17/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>HEXO</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo博客搭建</title>
     <url>/2023/05/21/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文记录Hexo安装过程以用来交流学习，以防日后重新部署再到处寻找资料。</p>
 <p>此教程为Hexo+github+netlify搭建博客。<br>Hexo为博客框架，github托管文件，netlify生成并加速博客。<br>在此之前最好有科学上网工具用更好的访问网站。</p>
 <p>下面让我们开始吧！</p>
+<span id="more"></span>
+
 <h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><h2 id="需要的软件"><a href="#需要的软件" class="headerlink" title="需要的软件"></a>需要的软件</h2><ul>
 <li><a href="https://git-scm.com/downloads">Git</a><br>选择自己电脑对应的版本即可</li>
 </ul>
@@ -94,47 +122,24 @@
         <category>学习</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>HEXO</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
     <title>我的第一篇文章</title>
     <url>/2023/05/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>你好 我在这儿<br>真正善良的人是敏感的人，而不是感伤的人，敏感的人刀刃永远向着自己，而不是会像感伤主义者一样对着他人的伤口作诗流泪。</p>
-]]></content>
+<span id="more"></span>]]></content>
       <categories>
         <category>记录</category>
       </categories>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/05/17/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>HEXO</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>正确的减肥策略</title>
     <url>/2023/05/19/%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%87%8F%E8%82%A5%E7%AD%96%E7%95%A5/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>对于没有长时间运动过的人来说，减肥是一件需要长期坚持的事情，它很枯燥，也很乏味。但是一旦决定开始减肥就不要中途放弃，这是一件持之以恒的事。<br>减肥的意义是消耗体内的脂肪，这件事不是短期可以出效果的，更多的在于量变产生质变。  </p>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>对于没有长时间运动过的人来说，减肥是一件需要长期坚持的事情，它很枯燥，也很乏味。但是一旦决定开始减肥就不要中途放弃，这是一件持之以恒的事。<br>减肥的意义是消耗体内的脂肪，这件事不是短期可以出效果的，更多的在于量变产生质变。</p>
+<span id="more"></span>  
 <h1 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h1><p>下面是总结的一个行之有效的方法<br>时间：以一个月为一个周期，一个星期为一个短周期。<br>网上流传锻炼二十分钟到半个小时身体才开始消耗脂肪，这是错误的，身体的能量消耗是同步的，区别是身体对于不同能量载体的占比的调整。在二十分钟后脂肪消耗占比开始上升。减肥最重要的是控制饮食，不能过多的摄入高能量的食物。<br>最初的一个星期，每天需要做的是先快步的走20-30分钟，这样做的目的是让身体先适应运动的节奏，相当于一个热身，然后在慢跑30分钟，在这之后需要做拉伸运动，避免运动后身体肌肉僵硬，造成腿部肌肉沉余，形成肌肉小腿，每次需坚持一个小时。<br>第二个星期，先做热身运动，慢走十分钟左右，然后开始慢跑半个小时，慢走十分钟，然后慢跑20分钟，最后拉伸运动。<br>第三个星期开始，不以时间来计算，开始以公里数来计算，选择适合自己的公里数，每天加一公里，最后拉伸运动。<br>第四个星期基本会见到效果，结合自身的状况，继续维持第三个星期的运动水准，或者是继续增加运动量。<br>在第一个星期，由于身体脂肪的瓦解，会出现身体体重增加，还有身体变胖，这些都是正常现象，几天后就会消失。<br>需要注意的是跑步前的热身和跑步后的拉伸运动，热身会减少跑步过程中身体的磨损，拉伸防止形成僵硬的肌肉，俗称肌肉腿。最好固定时间点儿，早晚都运动最好，如果不运动间隔最好不超两天，因为还有体重的反弹。一旦感到身体不适，应立即停止运动，不要强行运动。  </p>
 <h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p><strong>持之以恒</strong></p>
 ]]></content>
